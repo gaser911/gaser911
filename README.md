@@ -11,7 +11,7 @@
 ## 🧠 Tech Stack
 - **Languages:** Dart, JavaScript, Java, Python
 - **Frameworks:** Flutter, React.js  
-- **Backend (learning):** Node.js, Cms   
+- **Backend (learning):** Node.js, Python   
 - **Tools:** Git, GitHub, VS Code, Docker
 
 ---
