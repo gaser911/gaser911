@@ -1,16 +1,26 @@
 ## Hi there 👋
+# I'm Gaser!
 
-<!--
-**gaser911/gaser911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Flutter Developer** from Egypt  
+💻 Passionate about building beautiful and functional mobile apps using Flutter.  
+🚀 Currently exploring **advanced Flutter concepts**, including animations, state management, and API integration.  
+📚 Always learning and improving every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- **Languages:** Dart, JavaScript, Java, Python
+- **Frameworks:** Flutter, React.js  
+- **Backend (learning):** Node.js, Cms   
+- **Tools:** Git, GitHub, VS Code, Docker
+
+---
+
+## 🧩 Featured Projects
+- 🧠 [Flutter Quiz App](https://github.com/gaser911/flutter_basics)
+
+---
+
+## 📬 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/gaser-aboel-azm/) | [GitHub](https://github.com/gaser911)
+
