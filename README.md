@@ -18,6 +18,7 @@
 
 ## 🧩 Featured Projects
 - 🧠 [Flutter Quiz App](https://github.com/gaser911/flutter_basics)
+- 🧠 [Selection App] (https://github.com/gaser911/flutter_selection_basics)
 
 ---
 
